@@ -16,48 +16,48 @@
       <div class="modal-body">
         
       <div class="thumbnail">
-      <a href="diabetes.php">
+      
         <img src="image/paket_diabetes.png" alt="Nature" style="width:100%">
         <div class="caption">
-          <p>Klik untuk melihat informasi lebih lanjut</p>
+          <button class='btn btn-primary' onclick="redirectAll('diabetes.php')">Lihat</button>
         </div>
-      </a>
+      
     </div>
 
     <div class="thumbnail">
-      <a href="spirulina1.php">
+      
         <img src="image/paket_masker.png" alt="Nature" style="width:100%">
         <div class="caption">
-          <p>Produk terdaftar di badan POM Indonesia</p>
+        <button class='btn btn-primary' onclick="redirectAll('spirulina1.php')">Lihat</button>
         </div>
-      </a>
+     
     </div>
 
     <div class="thumbnail">
-      <a href="mata.php">
+      
         <img src="image/paket_mataminus.png" alt="Nature" style="width:100%">
         <div class="caption">
-          <p>Dan yang tidak kalah penting adalah penggunaan bahan-bahan alami dalam produk yang kami tawarkan</p>
+        <button class='btn btn-primary' onclick="redirectAll('mata.php')">Lihat</button>
         </div>
-      </a>
+    
     </div>
     
     <div class="thumbnail">
-      <a href="peninggi1.php">
+     
         <img src="image/paket_peninggi.png" alt="Nature" style="width:100%">
         <div class="caption">
-          <p>Produk Original dan Terpercaya</p>
+        <button class='btn btn-primary' onclick="redirectAll('peninggi1.php')">Lihat</button>
         </div>
-      </a>
+    
     </div>
 
     <div class="thumbnail">
-      <a href="vitaline.php">
+    
         <img src="image/paket_vitaline.png" alt="Nature" style="width:100%">
         <div class="caption">
-          <p>Official Store</p>
+        <button class='btn btn-primary' onclick="redirectAll('vitaline.php')">Lihat</button>
         </div>
-      </a>
+    
     </div>
        
       </div>
@@ -68,3 +68,11 @@
     </div>
   </div>
 </div>
+
+<script>
+
+function redirectAll(data)
+{
+  window.location=data;
+}
+</script>

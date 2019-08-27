@@ -33,6 +33,28 @@
 <h3><b style='color:#542772'>Tertarik mencoba?</b></h3>
 <p>Lihat katalog harga</p>
 <b>Lihat Disini</b>
-<button class='btn btn-info' data-toggle="modal" data-target="#exampleModal2">Informasi</button>
+<button class='btn btn-info' onclick="katalogBarang()">Informasi</button>
+
+<h3><b style='color:#542772'>Tertarik Jualan?</b></h3>
+
+<button class='btn btn-danger' onclick="dropshiper()">Dropshiper</button>
+<button class='btn btn-danger' onclick="reseler()">Reseler</button>
+
+<script>
+function katalogBarang()
+{
+    window.location="katalogBarang.php";
+}
+
+function dropshiper()
+{
+    window.location="dropshiper.php";
+}
+
+function reseler()
+{
+    window.location="reseler.php"
+}
+</script>
 
 
