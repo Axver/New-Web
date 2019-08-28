@@ -22,14 +22,38 @@
                       </h4>
                     </div>
                   </div>
-                  <!-- <div class="carousel-item">
-                    <img class="d-block w-100" src="image/H7kW9uV0CX.jpg" alt="Second slide">
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/slide_1.jpeg" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
                       <h4>
                         <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
                       </h4>
                     </div>
-                  </div> -->
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/slide_2.jpeg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/slide_3.jpeg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="image/slide_4.jpeg" alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h4>
+                        <i class="material-icons">Deskripsi Produk</i> Deskripsi Produk Disini
+                      </h4>
+                    </div>
+                  </div>
                   <div class="carousel-item">
                     <img class="d-block w-100" src="image/lAFdTx621i.jpg" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
