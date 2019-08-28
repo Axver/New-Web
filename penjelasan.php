@@ -6,11 +6,26 @@
         </div>
       
     </div>
+
+    <div class='row'>
+<div class='col-sm-4'>
+
+<button class='btn btn-primary' onclick="materi()">Materi</button>
+<button class='btn btn-primary' onclick="galeri()">Galeri</button>
+
+</div>
+<div class='col-sm-2'>
+
+</div>
+</div>
+
 <h3><b style='color:#542772'>Apa itu Spirulina?</b></h3>
 <p>Sudah tahu masker spirulina? Itu lho, masker yang warnanya hijau dan bikin kulit bersih setelah menggunakannya. Tetapi, bukan cuma itu saja manfaat dari si masker hijau ini
 </p>
 <b>Yuk Kepoin Disini</b>
 <button class='btn btn-info' data-toggle="modal" data-target="#exampleModal">Informasi</button>
+
+
 
 
 <h3><b style='color:#542772'>Kenapa harus produk kami?</b></h3>
@@ -53,7 +68,25 @@ function dropshiper()
 
 function reseler()
 {
-    window.location="reseler.php"
+    window.location="reseler.php";
+}
+
+
+function ihope()
+{
+    window.location="ihope.php";
+}
+
+
+function materi()
+{
+    window.location="materi.php";
+}
+
+
+function galeri()
+{
+    window.location="galeri.php";
 }
 </script>
 
