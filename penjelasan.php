@@ -12,6 +12,9 @@
 
 <button class='btn btn-primary' onclick="materi()">Materi</button>
 <button class='btn btn-primary' onclick="galeri()">Galeri</button>
+<button class='btn btn-primary' onclick="informasi()">Informasi</button>
+<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=291fab14c4c6a40d4ad169233c98179f4862e123'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/567144/t/0"></script>
 
 </div>
 <div class='col-sm-2'>
@@ -80,13 +83,18 @@ function ihope()
 
 function materi()
 {
-    window.location="materi.php";
+    window.location="daftar.php";
 }
 
 
 function galeri()
 {
     window.location="galeri.php";
+}
+
+function informasi()
+{
+    alert("Aplikasi v.1");
 }
 </script>
 
