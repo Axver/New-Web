@@ -33,7 +33,7 @@
 <h3><b style='color:#542772'>Tertarik mencoba?</b></h3>
 <p>Lihat katalog harga</p>
 <b>Lihat Disini</b>
-<button class='btn btn-info' onclick="katalogBarang()">Informasi</button>
+<button class='btn btn-primary' onclick="katalogBarang()">Beli Disini</button>
 
 <h3><b style='color:#542772'>Tertarik Jualan?</b></h3>
 
