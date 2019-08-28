@@ -87,7 +87,7 @@
 
 function beliPaket(data)
 {
-    window.location.href="https://api.whatsapp.com/send?phone=085264496374&text=Hai Saya Ingin Membeli "+data;
+    window.location.href="https://api.whatsapp.com/send?phone=6285264496374&text=Hai Saya Ingin Membeli "+data;
 }
 
 </script>
