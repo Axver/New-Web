@@ -4,8 +4,8 @@
 <div class='panel panel-info'>
 <div class='panel-head'>
 <b>Peninggi Badan Dewasa 20 Hari Peninggi Badan Kalsium Zinc Tiens Tianshi Alami Meninggikan Badan (Paket Bronze)</b>
-<strike style='color:red'><b>Rp 650.000</b></strike>
-<h3><b>Rp 595.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -24,9 +24,9 @@
 <div class='panel panel-info'>
 <div class='panel-head'>
 <b>Peninggi Badan Dewasa 30 Hari Kalsium Zinc Tiens Tianshi Herbal Alami Meninggikan Badan (Paket Silver)
-Rp 960,000.00</b>
-<strike style='color:red'><b>Rp 1.100.000</b></strike>
-<h3><b>Rp 960.000</b></h3>
+</b>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -45,8 +45,8 @@ Rp 960,000.00</b>
 <div class='panel panel-info'>
 <div class='panel-head'>
 <b>Peninggi Badan Dewasa 30 Hari Double Dosis Kalsium Zinc Tiens Tianshi Meninggikan Badan (Paket Gold)</b>
-<strike style='color:red'><b>Rp 1.840.000</b></strike>
-<h3><b>Rp 1.650.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -66,8 +66,8 @@ Rp 960,000.00</b>
 <div class='panel panel-info'>
 <div class='panel-head'>
 <b>Peninggi Badan Dewasa 10 Hari Kalsium Zinc Tiens Tianshi Herbal Alami Meninggikan Badan (Paket Biasa)</b>
-<strike style='color:red'><b>Rp 410.000</b></strike>
-<h3><b>Rp 365.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -85,8 +85,8 @@ Rp 960,000.00</b>
 <div class='panel panel-info'>
 <div class='panel-head'>
 <b>Peninggi Badan Anak 10 Hari Kalsium Zinc Tiens Tianshi Herbal Meninggikan Badan</b>
-<strike style='color:red'><b>Rp 420.000</b></strike>
-<h3><b>Rp 378.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -106,8 +106,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Wajah Spirulina 100 Kapsul | Wajah Kencang dan Bersih
 </b>
-<strike style='color:red'><b>Rp 408.000</b></strike>
-<h3><b>Rp 343.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -127,8 +127,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Spirulina Tiens 50 Kapsul Asli | Wajah Kencang dan Bebas Jerawat
 </b>
-<strike style='color:red'><b>Rp 230.000</b></strike>
-<h3><b>Rp 185.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -149,8 +149,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Chitosan Tiens 10 Kapsul | Wajah Bebas Berminyak dan Kencang
 </b>
-<strike style='color:red'><b>Rp 100.000</b></strike>
-<h3><b>Rp 65.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -170,8 +170,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Spirulina Tiens 25 Kapsul | Wajah Cerah Kencang Putih Alami Herbal
 </b>
-<strike style='color:red'><b>Rp 140.000</b></strike>
-<h3><b>Rp 110.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -192,8 +192,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Stamina Pria Dewasa Tiens | Tianshi Vitalitas Pria Dewasa Menguatkan Ginjal
 </b>
-<strike style='color:red'><b>Rp 700.000</b></strike>
-<h3><b>Rp 605.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -214,8 +214,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Penggemuk Badan Spirulina Zinc Tiens | Tianshi Menggemukkan Badan Alami
 </b>
-<strike style='color:red'><b>Rp 520.000</b></strike>
-<h3><b>Rp 478.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -235,8 +235,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Kecantikan Wajah dan Kulit Tiens Vitaline + Masker Chitosan 25 Kapsul Tianshi
 </b>
-<strike style='color:red'><b>Rp 497.800</b></strike>
-<h3><b>Rp 430.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -255,8 +255,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Chitosan Tiens 25 Kapsul | Wajah Bebas Berminyak dan Kencang
 </b>
-<strike style='color:red'><b>Rp 140.000</b></strike>
-<h3><b>Rp 120.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -276,8 +276,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Kecantikan Wajah dan Kulit Tiens Vitaline + Masker Spirulina 25 Kapsul Tianshi
 </b>
-<strike style='color:red'><b>Rp 470.000</b></strike>
-<h3><b>Rp 420,000.00</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -296,8 +296,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Spirulina Tiens 10 Kapsul | Wajah Cerah, Kencang & Putih Alami
 </b>
-<strike style='color:red'><b>Rp 63.000</b></strike>
-<h3><b>Rp 55,000.00</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -316,8 +316,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Pemutih Kulit & Wajah Tiens | Vitaline + Masker Spirulina
 </b>
-<strike style='color:red'><b>Rp 470.000</b></strike>
-<h3><b>Rp 420.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -336,8 +336,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Vitamin Mata Minus Hemat Renuves dan Vitaline Tiens | Mata Sehat
 </b>
-<strike style='color:red'><b>Rp 900.000</b></strike>
-<h3><b>Rp 821.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -356,8 +356,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Vitamin Mata Minus Komplit Renuves, Vitaline dan Jiang Zhi Tea Tiens | Mata Sehat
 </b>
-<strike style='color:red'><b>Rp 1.001.000</b></strike>
-<h3><b>Rp 951.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -418,8 +418,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Masker Wajah Chitosan 100 Kapsul | Wajah Bebas Berminyak dan Jerawat
 </b>
-<strike style='color:red'><b>Rp 450.000</b></strike>
-<h3><b>Rp 429.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -438,8 +438,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Peninggi Badan Anak 30 Hari Kalsium Zinc Tiens Tianshi Herbal Meninggikan Badan
 </b>
-<strike style='color:red'><b>Rp 1.100.000</b></strike>
-<h3><b>Rp 999.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -458,8 +458,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Detox Peluntur Lemak Chitosan dan Jiang Zhi Tea Tiens | Tianshi Membuang Lemak Jahat
 </b>
-<strike style='color:red'><b>Rp 602.000</b></strike>
-<h3><b>Rp 559.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -498,8 +498,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Program Kehamilan dan Kesuburan Wanita Kalsium Zinc Vitaline Tiens | Tianshi
 </b>
-<strike style='color:red'><b>Rp 710.000</b></strike>
-<h3><b>Rp 675.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -539,8 +539,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Stroke Dan Penyumbatan Pembuluh Darah Tiens
 </b>
-<strike style='color:red'><b>Rp 2.000.000</b></strike>
-<h3><b>Rp 1.524.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -559,8 +559,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Tipes Thypus Tiens
 </b>
-<strike style='color:red'><b>Rp 1.956.000</b></strike>
-<h3><b>Rp 1.043.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -579,8 +579,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket TBC Tiens
 </b>
-<strike style='color:red'><b>Rp 2.111.000</b></strike>
-<h3><b>Rp 1.554.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -599,8 +599,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Radang Paru ISPA Tiens
 </b>
-<strike style='color:red'><b>Rp 2.200.000</b></strike>
-<h3><b>Rp 1.640.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -619,8 +619,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Parkinson Syaraf Otak Tiens
 </b>
-<strike style='color:red'><b>Rp 1.200.000</b></strike>
-<h3><b>Rp 1.010.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -639,8 +639,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Tekanan Darah Rendah Atasi Hipotensi Tiens
 </b>
-<strike style='color:red'><b>Rp 1.110.000</b></strike>
-<h3><b>Rp 1.043.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
@@ -659,8 +659,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Susah Tidur Insomnia Herbal Tiens
 </b>
-<strike style='color:red'><b>Rp 950.000</b></strike>
-<h3><b>Rp 871.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b>50% OFF</b></h3>
 </div>
 
 <div class='panel-body'>
