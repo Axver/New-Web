@@ -282,7 +282,7 @@
       }
 
       function produkKesehatan()
-      {
+      { swal("Sukses","Menampilkan Produk Kesehatan");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
         document.getElementById("page_peninggi").style.display = "none";
@@ -298,6 +298,7 @@
 
       function produkKecantikan()
       {
+        swal("Sukses","Menampilkan Produk Kecantikan");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_peninggi").style.display = "none";
@@ -313,6 +314,7 @@
 
       function produkPeninggi()
       {
+        swal("Sukses","Menampilkan Produk Peninggi");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -328,6 +330,7 @@
 
       function produkMata()
       {
+        swal("Sukses","Menampilkan Produk Mata Minus");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -343,6 +346,7 @@
 
       function produkTambahBerat()
       {
+        swal("Sukses","Menampilkan Produk Penambah Berat");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -359,6 +363,7 @@
       
       function produkPelangsing()
       {
+        swal("Sukses","Menampilkan Produk Pelangsing");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -374,6 +379,7 @@
 
       function produkSA()
       {
+        swal("Sukses","Menampilkan Produk Suplemen Anak");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -389,6 +395,7 @@
 
       function produkStamina()
       {
+        swal("Sukses","Menampilkan Produk Penambah Stamina");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
@@ -404,6 +411,7 @@
 
       function produkPembalut()
       {
+        swal("Sukses","Menampilkan Produk Pembalut Airiz");
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
