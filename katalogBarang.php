@@ -95,6 +95,7 @@
     </div>
     <div class="section section-navbars cd-section" id="navigation">
       <div class="container">
+      <h2><b>Paket Spirulina</b></h2>
  
        <?php 
         include "daftarBarang.php";
@@ -106,6 +107,21 @@
 
 
     </div>
+
+    <div class='row'>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKesehatan()">Produk Kesehatan</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKecantikan()">Produk Kecantikan</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div>
+    </div>
+
+    <?php
+    
+    include 'page_peninggi.php';
+    include 'page_kesehatan.php';
+    include 'page_kecantikan.php';
+
+    ?>
+
   </div>
   <!-- end navbar  -->
   </div>
@@ -125,7 +141,7 @@
             </div>
           </div>
           <div class="sharing-area text-center">
-            <button onclick='whatsapp()' id="twitter" class="btn btn-raised btn-twitter sharrre">
+            <button onclick="wa()" id="twitter" class="btn btn-raised btn-twitter sharrre">
               <i class="fa fa-whatsapp"></i> Whatsapp
             </button>
             <button onclick='facebook()' id="facebook" class="btn btn-raised btn-facebook sharrre">
@@ -164,7 +180,10 @@
     <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
     <script src="./assets/js/material-kit.js?v=2.0.5" type="text/javascript"></script>
     <script>
+
       $(document).ready(function() {
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
         //init DateTimePickers
         materialKit.initFormExtendedDatetimepickers();
 
@@ -184,7 +203,12 @@
       function whatsapp()
       {
         let data="Hai Admin, saya ingin bertanya seputar produk";
-        windos.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
+        window.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
+      }
+
+      function wa()
+      {
+        window.location="https://api.whatsapp.com/send?phone=086576199777&text=Hai%20Saya%20Ingin%20Bertanya";
       }
 
       function facebook()
@@ -205,6 +229,28 @@
       function homeNya()
       {
           window.location="index.php";
+      }
+
+      function showAll_data()
+      {
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("produk_all").style.display = "block";
+        
+      }
+
+      function produkKesehatan()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "block";
+      }
+
+      function produkKecantikan()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "block";
       }
     </script>
 </body>

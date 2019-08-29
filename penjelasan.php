@@ -46,14 +46,15 @@
 <h3><b style='color:#542772'>Apakah kami terpercaya?</b></h3>
 <p>Biarkan Testimoni yang berbicara</p>
 <b>Lihat Disini</b>
-<button class='btn btn-info' data-toggle="modal" data-target="#exampleModal4">Informasi</button>
+<button class='btn btn-warning' data-toggle="modal" data-target="#exampleModal4">Informasi</button>
 
-<h3><b style='color:#542772'>Tertarik mencoba?</b></h3>
-<p>Lihat katalog harga</p>
+<h3><b style='color:#542772'>Beli Sekarang</b></h3>
+<p>Hai, ada berbagai macam pilihan produk yang kami tawarkan. Kamu bisa melihatnya melalui tombol yang kami sediakan dibawah.</p>
 <b>Lihat Disini</b>
 <button class='btn btn-primary' onclick="katalogBarang()">Beli Disini</button>
 
-<h3><b style='color:#542772'>Tertarik Jualan?</b></h3>
+<h3><b style='color:#542772'><b>Ingin punya penghasilan 3 juta/bulan dari ponsel anda?</b></h3>
+<p>Ayo bergabung dengan kami, proses mudah dan anda hanya perlu menggunakan ponsel pintar yang anda miliki.</p>
 
 <button class='btn btn-danger' onclick="dropshiper()">Dropshiper</button>
 <button class='btn btn-danger' onclick="reseler()">Reseler</button>
