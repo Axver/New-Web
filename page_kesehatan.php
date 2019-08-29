@@ -37,8 +37,8 @@
 <div class='panel-head'>
 <b>Paket Vitamin Mata Minus Hemat Renuves dan Vitaline Tiens | Mata Sehat
 </b>
-<strike style='color:red'><b>Rp 900.000</b></strike>
-<h3><b>Rp 821.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -57,8 +57,8 @@
 <div class='panel-head'>
 <b>Paket Vitamin Mata Minus Komplit Renuves, Vitaline dan Jiang Zhi Tea Tiens | Mata Sehat
 </b>
-<strike style='color:red'><b>Rp 1.001.000</b></strike>
-<h3><b>Rp 951.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -86,8 +86,8 @@
 <div class='panel-head'>
 <b>Paket Diabetes Komplit Tiens | Tianshi Chitosan Kalsium Shutang dan Diacont
 </b>
-<strike style='color:red'><b>Rp 1.200.000</b></strike>
-<h3><b>Rp 1.101.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -106,8 +106,8 @@
 <div class='panel-head'>
 <b>Paket Program Kehamilan dan Kesuburan Wanita Kalsium Zinc Vitaline Tiens | Tianshi
 </b>
-<strike style='color:red'><b>Rp 710.000</b></strike>
-<h3><b>Rp 675.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -127,8 +127,8 @@
 <div class='panel-head'>
 <b>Paket Diabetes Hemat Kalsium Shutang dan Chitosan Tiens | Tianshi Mengatasi Kencing Manis
 </b>
-<strike style='color:red'><b>Rp 800.000</b></strike>
-<h3><b>Rp 711.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -147,8 +147,8 @@
 <div class='panel-head'>
 <b>Paket Stroke Dan Penyumbatan Pembuluh Darah Tiens
 </b>
-<strike style='color:red'><b>Rp 2.000.000</b></strike>
-<h3><b>Rp 1.524.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -167,8 +167,8 @@
 <div class='panel-head'>
 <b>Paket Tipes Thypus Tiens
 </b>
-<strike style='color:red'><b>Rp 1.956.000</b></strike>
-<h3><b>Rp 1.043.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -187,8 +187,8 @@
 <div class='panel-head'>
 <b>Paket TBC Tiens
 </b>
-<strike style='color:red'><b>Rp 2.111.000</b></strike>
-<h3><b>Rp 1.554.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -207,8 +207,8 @@
 <div class='panel-head'>
 <b>Paket Radang Paru ISPA Tiens
 </b>
-<strike style='color:red'><b>Rp 2.200.000</b></strike>
-<h3><b>Rp 1.640.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -227,8 +227,8 @@
 <div class='panel-head'>
 <b>Paket Parkinson Syaraf Otak Tiens
 </b>
-<strike style='color:red'><b>Rp 1.200.000</b></strike>
-<h3><b>Rp 1.010.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -247,8 +247,8 @@
 <div class='panel-head'>
 <b>Paket Tekanan Darah Rendah Atasi Hipotensi Tiens
 </b>
-<strike style='color:red'><b>Rp 1.110.000</b></strike>
-<h3><b>Rp 1.043.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -267,8 +267,8 @@
 <div class='panel-head'>
 <b>Paket Susah Tidur Insomnia Herbal Tiens
 </b>
-<strike style='color:red'><b>Rp 950.000</b></strike>
-<h3><b>Rp 871.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>

@@ -17,7 +17,7 @@
         
       <div class="thumbnail">
       <a href="https://finance.detik.com/berita-ekonomi-bisnis/d-2141457/mlm-asal-china-dapat-sertifikat-halal--syariah-dari-mui">
-        <img src="image/halal.png" alt="Nature" style="width:100%">
+        <img src="image/halal.jpeg" alt="Nature" style="width:100%">
         <div class="caption">
           <p>Produk yang kami tawarkan terjamin kehalalannya dan memiliki sertifikat halal Indonesia</p>
         </div>

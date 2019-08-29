@@ -111,7 +111,15 @@
     <div class='row'>
     <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKesehatan()">Produk Kesehatan</button></div>
     <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKecantikan()">Produk Kecantikan</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPeninggi()">Produk Peninggi</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkMata()">Mata Minus</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkTambahBerat()">Tambah Berat</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPelangsing()">Pelangsing</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkSA()">Suplement Anak</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkStamina()">Stamina Pria</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPembalut()">Pembalut Airiz</button></div>
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="dataDiabetes()">Diabetes</button></div>
+    <!-- <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div> -->
     </div>
 
     <?php
@@ -119,6 +127,14 @@
     include 'page_peninggi.php';
     include 'page_kesehatan.php';
     include 'page_kecantikan.php';
+    include 'page_peninggi1.php';
+    include 'page_mataminus.php';
+    include 'page_tambahberat.php';
+    include 'page_pelangsing.php';
+    include 'page_suplementanak.php';
+    include 'page_staminapria.php';
+    include 'page_pembalut.php';
+    include 'page_diabetes.php';
 
     ?>
 
@@ -184,6 +200,14 @@
       $(document).ready(function() {
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
         //init DateTimePickers
         materialKit.initFormExtendedDatetimepickers();
 
@@ -235,7 +259,15 @@
       {
         document.getElementById("page_kesehatan").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
         document.getElementById("produk_all").style.display = "block";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
         
       }
 
@@ -243,15 +275,139 @@
       {
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "block";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
       }
 
       function produkKecantikan()
       {
         document.getElementById("produk_all").style.display = "none";
         document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
         document.getElementById("page_kecantikan").style.display = "block";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
       }
+
+      function produkPeninggi()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "block";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+      function produkMata()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "block";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+      function produkTambahBerat()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "block";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+
+      }
+      
+      function produkPelangsing()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "block";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+      function produkSA()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "block";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+      function produkStamina()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "block";
+        document.getElementById("page_pembalut").style.display = "none";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+      function produkPembalut()
+      {
+        document.getElementById("produk_all").style.display = "none";
+        document.getElementById("page_kesehatan").style.display = "none";
+        document.getElementById("page_kecantikan").style.display = "none";
+        document.getElementById("page_peninggi").style.display = "none";
+        document.getElementById("page_mataminus").style.display = "none";
+        document.getElementById("page_tambahberat").style.display = "none";
+        document.getElementById("page_pelangsing").style.display = "none";
+        document.getElementById("page_suplementanak").style.display = "none";
+        document.getElementById("page_staminapria").style.display = "none";
+        document.getElementById("page_pembalut").style.display = "block";
+        // document.getElementById("page_diabetes").style.display = "none";
+      }
+
+     
     </script>
 </body>
 

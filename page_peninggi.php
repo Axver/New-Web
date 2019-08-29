@@ -378,8 +378,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Pelangsing Badan Tiens | Diet Tepat | Melangsingkan Badan | Tianshi
 </b>
-<strike style='color:red'><b>Rp 910.000</b></strike>
-<h3><b>Rp 814,000.00</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -398,8 +398,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Pelangsing Hemat Chitosan dan Jiang Zhi Tea Tiens Tianshi Melangsingkan Badan Alami
 </b>
-<strike style='color:red'><b>Rp 650.000</b></strike>
-<h3><b>Rp 599.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -478,8 +478,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Diabetes Komplit Tiens | Tianshi Chitosan Kalsium Shutang dan Diacont
 </b>
-<strike style='color:red'><b>Rp 1.200.000</b></strike>
-<h3><b>Rp 1.101.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
@@ -519,8 +519,8 @@ Rp 960,000.00</b>
 <div class='panel-head'>
 <b>Paket Diabetes Hemat Kalsium Shutang dan Chitosan Tiens | Tianshi Mengatasi Kencing Manis
 </b>
-<strike style='color:red'><b>Rp 800.000</b></strike>
-<h3><b>Rp 711.000</b></h3>
+<strike style='color:red'><b>50% OFF</b></strike>
+<h3><b></b></h3>
 </div>
 
 <div class='panel-body'>
