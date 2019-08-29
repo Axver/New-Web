@@ -109,17 +109,26 @@
     </div>
 
     <div class='row'>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKesehatan()">Produk Kesehatan</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkKecantikan()">Produk Kecantikan</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPeninggi()">Produk Peninggi</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkMata()">Mata Minus</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkTambahBerat()">Tambah Berat</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPelangsing()">Pelangsing</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkSA()">Suplement Anak</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkStamina()">Stamina Pria</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPembalut()">Pembalut Airiz</button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkKesehatan()">Produk Kesehatan</button><button class='btn btn-primary' onclick="infoKesehatan()"><i class="fa fa-info"></i></button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkKecantikan()">Produk Kecantikan</button><button class='btn btn-primary' onclick="infoKecantikan()"><i class="fa fa-info"></i></button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkPeninggi()">Produk Peninggi</button><button class='btn btn-primary' onclick="infoPeninggi()"><i class="fa fa-info"></i></button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkMata()">Mata Minus</button><button class='btn btn-primary' onclick="infoMata()"><i class="fa fa-info"></i></button></div>
+      </div>
+
+    <div class='row'>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkTambahBerat()">Tambah Berat</button><button class='btn btn-primary' onclick='infoBerat()'><i class="fa fa-info"></i></button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkPelangsing()">Pelangsing</button><button class='btn btn-primary' onclick="infoPelangsing()"><i class="fa fa-info"></i></button></div>
+  
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkSA()">Suplement Anak</button><button class='btn btn-primary' onclick="infoAnak()"><i class="fa fa-info"></i></button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkStamina()">Stamina Pria</button><button class='btn btn-primary' onclick="infoStamina()"><i class="fa fa-info"></i></button></div>
+    
+    </div>
+
+    <div class='row'>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="produkPembalut()">Pembalut Airiz</button><button class='btn btn-primary' onclick="infoPembalut()"><i class="fa fa-info"></i></button></div>
     <!-- <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="dataDiabetes()">Diabetes</button></div> -->
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div>
+    <div class='col-sm-3'> <button class='btn btn-info' style='width:80%' onclick="showAll_data()">Lain-Lain</button><button class='btn btn-primary'><i class="fa fa-info"></i></button></div>
+   
     </div>
 
     <?php
@@ -135,6 +144,7 @@
     include 'page_staminapria.php';
     include 'page_pembalut.php';
     include 'page_diabetes.php';
+    include 'modal_produk.php';
 
     ?>
 
