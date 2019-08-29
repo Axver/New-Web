@@ -118,8 +118,8 @@
     <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkSA()">Suplement Anak</button></div>
     <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkStamina()">Stamina Pria</button></div>
     <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="produkPembalut()">Pembalut Airiz</button></div>
-    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="dataDiabetes()">Diabetes</button></div>
-    <!-- <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div> -->
+    <!-- <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="dataDiabetes()">Diabetes</button></div> -->
+    <div class='col-sm-1'> <button class='btn btn-info' style='width:100%' onclick="showAll_data()">Lain-Lain</button></div>
     </div>
 
     <?php
