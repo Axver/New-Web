@@ -95,7 +95,7 @@ function galeri()
 
 function informasi()
 {
-    alert("Aplikasi v.1");
+    swal("Informasi","Web Ini adalah web official dari Health Beauty, Kamu bisa menemukan informasi yang dibutuhkan disini atau jika masih ragu silahkan langsung menghubungi admin melalui menu yang telah disediakan")
 }
 </script>
 
