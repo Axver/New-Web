@@ -147,7 +147,7 @@
             </div>
           </div>
           <div class="sharing-area text-center">
-            <button onclick='whatsapp()' id="twitter" class="btn btn-raised btn-twitter sharrre">
+            <button onclick="whatsapp_()" id="twitter" class="btn btn-raised btn-twitter sharrre">
               <i class="fa fa-whatsapp"></i> Whatsapp
             </button>
             <button onclick='facebook()' id="facebook" class="btn btn-raised btn-facebook sharrre">
@@ -206,7 +206,14 @@
       function whatsapp()
       {
         let data="Hai Admin, saya ingin bertanya seputar produk";
-        windos.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
+        window.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
+      }
+
+      function whatsapp_()
+      {
+        let data="Hai Admin, saya ingin bertanya seputar produk";
+        window.location="https://api.whatsapp.com/send?phone=6285264496374&text="+data;
+        
       }
 
       function facebook()

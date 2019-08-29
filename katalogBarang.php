@@ -208,7 +208,7 @@
 
       function wa()
       {
-        window.location="https://api.whatsapp.com/send?phone=086576199777&text=Hai%20Saya%20Ingin%20Bertanya";
+        window.location="https://api.whatsapp.com/send?phone=6285264496374&text=Hai%20Saya%20Ingin%20Bertanya";
       }
 
       function facebook()

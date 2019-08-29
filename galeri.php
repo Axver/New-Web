@@ -187,7 +187,7 @@ include "slideshow_galeri.php";
       function whatsapp()
       {
         let data="Hai Admin, saya ingin bertanya seputar produk";
-        windos.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
+        window.location="https://api.whatsapp.com/send?phone=086576199777&text="+data;
       }
 
       function facebook()
