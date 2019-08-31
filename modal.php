@@ -24,6 +24,7 @@
         </p>
         <b>Jadi hati-hati ya, lebih baik kamu membelinya di toko Official seperti</b>
         <b style='color:green'>Health Beauty Official</b>
+        <button class='btn btn-info' onclick="moveSpirulina()">Cek Info Lengkap</button>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -32,3 +33,10 @@
     </div>
   </div>
 </div>
+
+<script>
+function moveSpirulina()
+{
+  window.location="spirulina";
+}
+</script>
