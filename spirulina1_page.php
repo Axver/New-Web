@@ -8,7 +8,7 @@
 <div class='col-sm-6'>
 <div class="thumbnail">
       
-        <img src="image/diabetes_1.png" alt="Fjords" style="width:100%">
+        <img src="image/spirulina_1.png" alt="Fjords" style="width:100%">
         <div class="caption">
           
         </div>
