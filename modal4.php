@@ -20,7 +20,7 @@
      
       <div class="thumbnail">
       <a href="">
-        <img src="image/testi_1.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_1.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -28,16 +28,7 @@
     </div>
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_2.jpeg" alt="Nature" style="width:100%">
-        <div class="caption">
-          
-        </div>
-      </a>
-    </div>
-
-    <div class="thumbnail">
-      <a href="">
-        <img src="image/testi_3.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_2.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -46,7 +37,7 @@
 
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_4.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_3.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -55,7 +46,7 @@
 
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_5.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_4.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -64,7 +55,7 @@
 
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_6.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_5.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -73,7 +64,7 @@
 
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_7.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_6.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
@@ -82,7 +73,89 @@
 
     <div class="thumbnail">
       <a href="">
-        <img src="image/testi_8.jpeg" alt="Nature" style="width:100%">
+        <img src="image/testi_7.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_8.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_9.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_10.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_11.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_12.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_13.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_14.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_15.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_16.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          
+        </div>
+      </a>
+    </div>
+    <div class="thumbnail">
+      <a href="">
+        <img src="image/testi_17.jpg" alt="Nature" style="width:100%">
         <div class="caption">
           
         </div>
