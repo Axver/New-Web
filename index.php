@@ -68,6 +68,13 @@
           <div class="brand">
             <h1>Health Beauty<sup><i class="fa fa-diamond"></i></sup></h1>
             <h3>Health Beauty Official Store</h3>
+            <button class='btn btn-info' onclick="pus()">Pusat Informasi</button>
+            <script>
+            function pus()
+            {
+              window.location="produk";
+            }
+            </script>
           </div>
         </div>
       </div>
